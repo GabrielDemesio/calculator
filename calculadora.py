@@ -32,7 +32,7 @@ def raizQuadrada():
 
 root = Tk()
 
-root.geometry("500x300")
+root.geometry("500x150")
 root.title("Calculadora")
 root.configure(background='gray')
 
